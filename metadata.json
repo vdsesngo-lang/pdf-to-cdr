@@ -1,0 +1,5 @@
+{
+  "name": "PDF to CDR Vector Converter",
+  "description": "A tool to convert PDF files into CorelDRAW compatible vector files (SVG) and draft emails to vdses.ngo@gmail.com.",
+  "requestFramePermissions": []
+}
